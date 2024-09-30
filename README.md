@@ -1,4 +1,5 @@
 
+This repo is used to store the code made for the challenge https://www.kaggle.com/competitions/leash-BELKA/overview. 
 
 | **Model**                      | **Batch Size** | **GPU Memory Occupied** | **Epoch Time** | **Val MAP** | **Test MAP** | **Run ID** | **Date**   | **Dataset**              | 
 |--------------------------------|----------------|-------------------------|----------------|-------------|--------------|------------|------------|--------------------------|
@@ -13,9 +14,6 @@
 | **GNN BCE Simple Features Hidden Layer Increase** |      256      |          | 53 min | 0.940 |   0.284  |       |    |     new split 50/50       | 
 | **GNN BCE Complex Features Hidden Layer Increase** |      256      |          | 55 min | 0.942 |   0.288  |       |    |     new split 50/50       | 
 | **GAT BCE Complex Features Hidden Layer Increase** |      256      |          | 60 min | 0.950 |   0.293  |       |    |     new split 50/50       | 
-
-
-This repo is used to store the code made for the challenge https://www.kaggle.com/competitions/leash-BELKA/overview. 
 
 The challenge was taken has an opportunity to test and compare different novel methods to represent molecules and study their interactions with proteins. 
 We tested several models, namely: 
