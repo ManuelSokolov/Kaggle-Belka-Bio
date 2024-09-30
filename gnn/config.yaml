@@ -1,0 +1,7 @@
+hidden_dim: 64
+num_epochs: 7
+num_layers: 4
+dropout_rate: 0.3
+learning_rate: 0.001
+batch_size: 256
+heads: 20

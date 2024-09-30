@@ -1,0 +1,12 @@
+pandas
+torch
+torch-geometric
+pytorch-lightning
+torchvision
+pyyaml
+tqdm
+torchmetrics
+duckdb
+rdkit
+polars
+numpy

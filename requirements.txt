@@ -1,0 +1,12 @@
+kaggle
+polars
+molfeat
+transformers
+pytorch-lightning
+scikit-learn 
+rdkit 
+neptune 
+bitsandbytes
+peft 
+torchvision
+dask
